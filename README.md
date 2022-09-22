@@ -1,2 +1,11 @@
-# File-System-Navigator-and-Editor
-Created a program which can output a directory’s contents recursively, create and delete files, and edit and read property files. • Saves user data (username, password, bio), and users can upload text posts via .dsu files to a website. • The program communicates with the server in JSON format. • Accesses OpenWeather and LastFM API’s using keywords "@weather" and "@lastFM"- output the current weather of desired location and best selling artist respectively. • Can choose to encrypt messages so that only authorized users can read it using PyNaCl library and public/private keys.
+# Charles Ruffing
+# ruffingc@uci.edu
+# 40252524
+
+EXTRA CREDIT FEATURES (all located in File menu in GUI):
+
+2. Add a settings menu item and interface for username and password management.
+
+4. Add a bio menu item and interface for editing the user bio.
+
+6. Add support for editing the location of the DSU server.
